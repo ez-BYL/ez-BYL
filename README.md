@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bardaan.
-- 👀 I’m interested in Web development, Machine learning and Error solving.
-- 🌱 I’m currently learning MERN.
-- ⚡ Fun fact: Sometimes I forget what I did on previous day. Haha..
+- 👀 I’m interested in Web development and app development.
+- 🌱 I’m currently learning Reactjs.
+- ⚡ Code, code and code.
 
 <!---
 ez-BYL/ez-BYL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
